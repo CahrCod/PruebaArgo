@@ -4,4 +4,4 @@ metadata:
   name: mysql-config
 data:
   MYSQL_DATABASE: "virtualvuelo"
-  MYSQL_ROOT_PASSWORD: "A03211026z_+*."
+  MYSQL_ROOT_PASSWORD: "root"
